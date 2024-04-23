@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Meny.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 758e909308a462741b17d283a76e6ef4
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 0990a93efa51bad489eb247753643c4b
+  - enabled: 1
+    path: Assets/Scenes/Forest/Trappa.unity
+    guid: b156dc9bdb45bec47af95eb46b5d5de7
+  - enabled: 1
+    path: Assets/Scenes/Forest/Goblin.unity
+    guid: c9cc8d9efe27bf64caf64da51a87584f
+  - enabled: 1
+    path: Assets/Scenes/Forest/Knight.unity
+    guid: 03be73f9a8b085f42a95e0d85916ddce
+  - enabled: 1
+    path: Assets/Scenes/Forest/Wolf.unity
+    guid: a760730f1f7ecc9499afa663269e1989
+  - enabled: 1
+    path: Assets/Scenes/Forest/Riddle.unity
+    guid: da52a7ef1e9726e40b88b8a591c29a22
+  - enabled: 1
+    path: "Assets/Scenes/Tr\xE4sk/Cannibal.unity"
+    guid: 9df370332a11c0b4eb71e90f49d96af5
+  - enabled: 1
+    path: "Assets/Scenes/Tr\xE4sk/Egg.unity"
+    guid: f6db21da23a416b4f9955f1bef3df7fc
+  - enabled: 1
+    path: "Assets/Scenes/Tr\xE4sk/Voices.unity"
+    guid: 3979dbcf2d744884f843bcd18466be98
+  - enabled: 1
+    path: Assets/Scenes/Berg/Assassin.unity
+    guid: 492f05cae6f8f5645bfc56d35f90902f
+  - enabled: 1
+    path: Assets/Scenes/Berg/Eagle.unity
+    guid: d743ca24314e0fe4fb2a25bac576239d
+  - enabled: 1
+    path: Assets/Scenes/Berg/Profet.unity
+    guid: 677b8967b4c5965449af9a22bd49b3f7
+  - enabled: 1
+    path: Assets/Scenes/God Realm/Morten.unity
+    guid: 5c06b28f7f1ac7f4083ca0a52552f095
+  - enabled: 1
+    path: Assets/Scenes/God Realm/Angle Scene.unity
+    guid: 32ae0a535825d6c49bc49bb5706e1f41
+  - enabled: 1
+    path: Assets/Scenes/God Realm/God.unity
+    guid: 772ec5a307525c94e91b5046209fb052
+  - enabled: 1
+    path: Assets/Scenes/Forest/Magician.unity
+    guid: 5472915ee74d1cb43870153cc16d7e1f
+  - enabled: 1
+    path: Assets/Scenes/Forest/Stone Gigant.unity
+    guid: 2a9810ac63b74ce4098c36e3c0951226
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest.unity
+    guid: 73e14eaa3d74edb40bb6e8a7e6bf58af
+  - enabled: 1
+    path: "Assets/Scenes/Tr\xE4sk/Slime.unity"
+    guid: 20f027d1a2fe6de4387ffbf6893bca0c
+  - enabled: 1
+    path: "Assets/Scenes/Tr\xE4sk/ToadWB.unity"
+    guid: 065ab213d2dfa6b4d9cfca57421ba641
+  - enabled: 1
+    path: "Assets/Scenes/Tr\xE4sk/Troll.unity"
+    guid: 9863c7112e408714aa1968ccca55d003
+  - enabled: 1
+    path: Assets/Scenes/Berg/Error.unity
+    guid: c66695fa941abaf42a04fa3f28aa1ce2
+  - enabled: 1
+    path: Assets/Scenes/Berg/GHunter Fight.unity
+    guid: b1f04b01b31f038498d4867c4495614f
+  m_configObjects: {}
